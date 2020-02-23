@@ -1,0 +1,26 @@
+{
+  "name": "mbook",
+  "version": "1.0.0",
+  "description": "这是一个Gitbook自动化构建的Demo",
+  "main": "index.js",
+  "dependencies": {
+    "core-util-is": "^1.0.2"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiyeo/mbook.git"
+  },
+  "keywords": [],
+  "author": "ljy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijiyeo/mbook/issues"
+  },
+  "homepage": "https://github.com/lijiyeo/mbook#readme"
+}
